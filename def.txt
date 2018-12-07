@@ -10,7 +10,7 @@ hi raghav
 
 
 Edited the file
-<<<<<<< HEAD
+
 manish at 9 pm edited this
 =======
 
@@ -18,4 +18,6 @@ hi
 goodmng
 
 je voudrais un coffe
->>>>>>> 85210588de8ddd7f446b58e54437c15cc9432131
+
+
+conflict had came
