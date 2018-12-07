@@ -16,9 +16,6 @@ manish at 9 pm edited this
 
 hi 
 goodmng
-<<<<<<< HEAD
->>>>>>> 85210588de8ddd7f446b58e54437c15cc9432131
-=======
 
-edited now by raghav
->>>>>>> f2f91bde040f4ab887f8f1460c9962f38e782f16
+je voudrais un coffe
+>>>>>>> 85210588de8ddd7f446b58e54437c15cc9432131
